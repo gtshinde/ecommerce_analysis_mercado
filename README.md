@@ -13,7 +13,7 @@ The dataset consists of multiple tables providing information about orders, orde
 - **Payments**: Payment types, values, and installments.
 - **Products**: Product categories, dimensions, and weights.
 
-![alt text](image-18.png)
+![alt text](./screenshots/image-18.png)
 ---
 
 ## Skills Used
@@ -34,7 +34,7 @@ Performed in Power Query:
 Delivery Status Column's logic is as below:
 
 
- <img src = "image-16.png" width="900" height="500">  
+ <img src = "./screenshots/image-16.png" width="900" height="500">  
 
 ## **Assumptions**
 Only orders with a "delivered" status were considered for this analysis.
