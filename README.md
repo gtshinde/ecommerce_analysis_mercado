@@ -27,7 +27,7 @@ The dataset consists of multiple tables providing information about orders, orde
 Performed in Power Query:
 
 - Removed duplicates from tables with primary key columns.
-- Replaced null values in product categories with 'unidentified.'
+- Replaced null values in product categories with 'unidentified'.
 - Created a calendar table for better date handling.
 - Separated columns with date and timestamp into individual fields.
 - Added helper columns to calculate differences between actual and estimated delivery dates.
@@ -46,9 +46,9 @@ Only orders with a "delivered" status were considered for this analysis.
 - **Toys**: *Revenue $22M, Orders 67,027, AOV $343.07*
   - High sales volume and lower AOV suggest frequent, smaller purchases. This trend underscores the importance of maintaining robust inventory levels and offering varied product options to sustain high demand.
 - **Furniture & Décor**: *Revenue $739K, Orders 1,760, AOV $427.88*
-  - Healthy order volume and AOV indicate a potential customer base focused on home improvement. Expanding unique product offerings and leveraging seasonal trends could enhance market share.
+  - Healthy order volume and AOV indicate a potential customer base focused on home improvement. Leveraging seasonal trends, such as promotions during renovation seasons could drive higher engagement and boost market share.
 - **Garden Tools**: *Revenue $732K, Orders 807, AOV $925.14*
-  - High AOV indicates significant spending on individual purchases. Seasonal promotions or bundling of related items encouraging bulk purchses could possibly increase sales.
+  - High AOV indicates significant spending on individual purchases. Seasonal promotions or bundling of related items encouraging bulk purchases could possibly increase sales.
 
 #### Underperforming Categories
 
