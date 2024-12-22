@@ -44,11 +44,11 @@ Only orders with a "delivered" status were considered for this analysis.
 #### High-Performing Categories
 
 - **Toys**: *Revenue $22M, Orders 67,027, AOV $343.07*
-  - High sales volume and lower AOV suggest frequent, smaller purchases. Opportunity: Expand product offerings and focus on promotional activities during peak seasons.
+  - High sales volume and lower AOV suggest frequent, smaller purchases. This trend underscores the importance of maintaining robust inventory levels and offering varied product options to sustain high demand.
 - **Furniture & Décor**: *Revenue $739K, Orders 1,760, AOV $427.88*
-  - Healthy order volume and AOV indicate a potential customer base focused on home improvement. Opportunity: Target seasonal promotions and unique designs.
+  - Healthy order volume and AOV indicate a potential customer base focused on home improvement. Expanding unique product offerings and leveraging seasonal trends could enhance market share.
 - **Garden Tools**: *Revenue $732K, Orders 807, AOV $925.14*
-  - High AOV indicates significant spending on individual purchases. Opportunity: Seasonal promotions or bundling strategies could increase sales.
+  - High AOV indicates significant spending on individual purchases. Seasonal promotions or bundling of related items encouraging bulk purchses could possibly increase sales.
 
 #### Underperforming Categories
 
