@@ -31,10 +31,6 @@ Performed in Power Query:
 - Created a calendar table for better date handling.
 - Separated columns with date and timestamp into individual fields.
 - Added helper columns to calculate differences between actual and estimated delivery dates.
-Delivery Status Column's logic is as below:
-
-
- <img src = "./screenshots/image-16.png" width="900" height="500">  
 
 ## **Assumptions**
 Only orders with a "delivered" status were considered for this analysis.
