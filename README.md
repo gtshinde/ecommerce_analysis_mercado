@@ -37,7 +37,8 @@ Only orders with a "delivered" status were considered for this analysis.
 
 ## Interactive Dashboard Preview
 
-<video controls src="Interactive_Dashboard_Preview.mp4" title="Title"></video>
+[View Dashboard Preview](https://github.com/gtshinde/ecommerce_analysis_mercado/blob/main/Interactive_Dashboard_Preview.mp4)
+
 
 ## Dashboard Screenshots
 
